@@ -4,4 +4,11 @@
   <artifactId>StrutsDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>StrutsDemo</name>
+  <dependencies>
+	  <dependency>
+		  <groupId>javax.activation</groupId>
+		  <artifactId>activation</artifactId>
+		  <version>1.1</version>
+	  </dependency>
+  </dependencies>
 </project>

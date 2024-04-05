@@ -4,6 +4,7 @@
   <artifactId>StrutsDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>StrutsDemo</name>
+  <build></build>
   <dependencies>
 	  <dependency>
 		  <groupId>javax.activation</groupId>
